@@ -1,10 +1,10 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-export default function _layout() {
+export default function ChatScreen() {
   return (
     <View>
-      <Text>tabs_layout</Text>
+      <Text>chat id</Text>
     </View>
   )
 }

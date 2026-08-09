@@ -4,7 +4,7 @@ import React from 'react'
 export default function _layout() {
   return (
     <View>
-      <Text>tabs_layout</Text>
+      <Text>auth_layout</Text>
     </View>
   )
 }
